@@ -1,0 +1,36 @@
+#include <stdio.h>
+
+int
+main ()
+{
+  printf ("Vineet saini\n");
+  printf ("Rohan saini\n");
+  printf ("Prince saini\n");
+  printf ("Balchand saini\n");
+  printf ("Sonu devi\n");
+  printf ("country's name:\n");
+  printf ("India,");
+  printf ("Australia,");
+  printf ("America,");
+  printf ("China,");
+  printf ("Russia\n");
+  printf ("state's name:\n");
+  printf ("Rajasthan\n");
+  printf ("Mumbai\n");
+  printf ("Bihar\n");
+  printf ("Kerala\n");
+  printf ("Punjab\n");
+  printf ("Favourite food name\n");
+  printf ("Dall Batti,");
+  printf ("Rajma Chawal,");
+  printf ("Chhole Bhature,");
+  printf ("Salad,");
+  printf ("Sandwich\n");
+  printf ("Sport's name\n");
+  printf ("Cricket\n");
+  printf ("Foot Ball\n");
+  printf ("Basket Ball\n");
+  printf ("Volley Ball\n");
+  printf ("Badminton\n");
+  return 0;
+}
